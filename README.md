@@ -1,2 +1,1 @@
-My second readme
-updating read me as directed
+My first readme
